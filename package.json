@@ -1,0 +1,49 @@
+{
+  "name": "feelings-express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/runtime": "^7.3.1",
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "cookie": "^0.3.1",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.5",
+    "debug": "^4.1.1",
+    "eslint": "^5.12.1",
+    "express": "^4.16.4",
+    "express-jwt": "^5.3.1",
+    "morgan": "^1.9.1",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "sequelize": "^4.42.0",
+    "utf8": "^3.0.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/plugin-transform-runtime": "^7.2.0",
+    "@babel/preset-env": "^7.3.1",
+    "babel-watch": "^2.0.8",
+    "esdoc": "^1.1.0",
+    "esdoc-standard-plugin": "^1.0.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.15.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilkerkaran/feelings-express-app.git"
+  },
+  "author": "ilker-karan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilkerkaran/feelings-express-app/issues"
+  },
+  "homepage": "https://github.com/ilkerkaran/feelings-express-app#readme"
+}
